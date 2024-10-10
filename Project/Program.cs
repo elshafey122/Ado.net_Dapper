@@ -17,7 +17,7 @@ namespace Project
 
 
 
-            //var config = new ConfigurationBuilder()                    // to access appsetting.json file
+            //var config = new ConfigurationBuilder()                    // to access appsetting.json file using two packages Microsoft.Extensions.Configuration/Configuration.json
             //    .AddJsonFile("appsetting.json")
             //    .Build();
             //var connection = config.GetSection("connectionstring").Value;
